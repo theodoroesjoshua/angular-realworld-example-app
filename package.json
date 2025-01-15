@@ -5,7 +5,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --configuration production  --base-href ./ && cp CNAME docs/CNAME",
+    "build": "ng build --output-path docs --base-href /angular-realworld-example-app/",
     "test": "ng test",
     "lint": "ng lint --force",
     "e2e": "ng e2e"
