@@ -41,6 +41,7 @@
               "extractLicenses": true,
               "vendorChunk": false,
               "buildOptimizer": true,
+              "baseHref": "/angular-realworld-example-app/",
               "budgets": [
                 {
                   "type": "initial",
