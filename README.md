@@ -23,7 +23,7 @@ We're currently working on some docs for the codebase (explaining where function
 
 ### Making requests to the backend API
 
-For convenience, I have a live API server running at https://node-express-realworld-example-app-dmng.onrender.com for the application to make requests against. It is only a free plan, so the DB unfortunately has only 1 month of retention. You can view [the API spec here](https://github.com/GoThinkster/productionready/blob/master/api) which contains all routes & responses for the server.
+For convenience, I have a live API server running at https://node-express-realworld-example-app-dmng.onrender.com/api for the application to make requests against. It is only a free plan, so the DB unfortunately has only 1 month of retention. You can view [the API spec here](https://github.com/GoThinkster/productionready/blob/master/api) which contains all routes & responses for the server.
 
 The source code for the backend server (available for Node, Rails and Django) can be found in the [main RealWorld repo](https://github.com/gothinkster/realworld).
 
@@ -42,7 +42,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Functionality overview
 
-The example application is a social blogging site (i.e. a Medium.com clone) called "Conduit". It uses a custom API for all requests, including authentication. Since the live API server is down now, I deploy another cloned repo to render.com for the backend: https://node-express-realworld-example-app-dmng.onrender.com (Since it is only a free plan, the postgre DB will be gone after a month.)
+The example application is a social blogging site (i.e. a Medium.com clone) called "Conduit". It uses a custom API for all requests, including authentication. Since the live API server is down now, I deploy another cloned repo to render.com for the backend: https://node-express-realworld-example-app-dmng.onrender.com/api (Since it is only a free plan, the postgre DB will be gone after a month.)
 
 **General functionality:**
 
