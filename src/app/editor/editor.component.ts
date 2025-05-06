@@ -5,9 +5,10 @@ import { ActivatedRoute, Router } from '@angular/router';
 import { Article, ArticlesService } from '../core';
 
 @Component({
-  selector: 'app-editor-page',
-  templateUrl: './editor.component.html',
-  changeDetection: ChangeDetectionStrategy.OnPush
+    selector: 'app-editor-page',
+    templateUrl: './editor.component.html',
+    changeDetection: ChangeDetectionStrategy.OnPush,
+    standalone: false
 })
 export class EditorComponent implements OnInit {
   article: Article = {} as Article;

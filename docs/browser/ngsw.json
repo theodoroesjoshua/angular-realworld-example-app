@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1746552995440,
+  "timestamp": 1746553557006,
   "index": "/angular-realworld-example-app/index.html",
   "assetGroups": [
     {
@@ -11,17 +11,17 @@
         "ignoreVary": true
       },
       "urls": [
+        "/angular-realworld-example-app/article.module-SADI6QNX.js",
+        "/angular-realworld-example-app/chunk-52BIPFCO.js",
+        "/angular-realworld-example-app/editor.module-NYYKIEPM.js",
         "/angular-realworld-example-app/favicon.ico",
         "/angular-realworld-example-app/index.html",
-        "/angular-realworld-example-app/main.98072ed3e5f12096.js",
+        "/angular-realworld-example-app/main-FZ6WKRSW.js",
         "/angular-realworld-example-app/manifest.webmanifest",
-        "/angular-realworld-example-app/polyfills.802c161d09976ec9.js",
-        "/angular-realworld-example-app/runtime.8e1bc65fc1b3f83d.js",
-        "/angular-realworld-example-app/src_app_article_article_module_ts.21529f9ee2208abf.js",
-        "/angular-realworld-example-app/src_app_editor_editor_module_ts.040e72b34b0dd784.js",
-        "/angular-realworld-example-app/src_app_profile_profile_module_ts.ad90696b0dfc26d5.js",
-        "/angular-realworld-example-app/src_app_settings_settings_module_ts.313b31b9d1de7579.js",
-        "/angular-realworld-example-app/styles.ef46db3751d8e999.css"
+        "/angular-realworld-example-app/polyfills-EONH2QZO.js",
+        "/angular-realworld-example-app/profile.module-OGKJLIIF.js",
+        "/angular-realworld-example-app/settings.module-RCZFGHAO.js",
+        "/angular-realworld-example-app/styles-5INURTSO.css"
       ],
       "patterns": []
     },
@@ -48,6 +48,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/angular-realworld-example-app/article.module-SADI6QNX.js": "609c14f7a810833fc377a23c21bdb26aece3166c",
     "/angular-realworld-example-app/assets/.npmignore": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "/angular-realworld-example-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/angular-realworld-example-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
@@ -57,17 +58,16 @@
     "/angular-realworld-example-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/angular-realworld-example-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/angular-realworld-example-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/angular-realworld-example-app/chunk-52BIPFCO.js": "b9627eb32206bca677be733339a6ac5dc2f04da8",
+    "/angular-realworld-example-app/editor.module-NYYKIEPM.js": "c76beca723be96354df529779c6d54d114b92f89",
     "/angular-realworld-example-app/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/angular-realworld-example-app/index.html": "71a38920e98fae1fada5dcf06431fbb046fb1c4a",
-    "/angular-realworld-example-app/main.98072ed3e5f12096.js": "8128c85f596058f6bd6a4e7879d28e4a055487d6",
+    "/angular-realworld-example-app/index.html": "dcb68468fc96ea6d457d545adfef78f99ab3dd5b",
+    "/angular-realworld-example-app/main-FZ6WKRSW.js": "9a939c6c6b3038394bdd519f0cc89b06fc03460d",
     "/angular-realworld-example-app/manifest.webmanifest": "53f62b083089a096f9e07fbd333c9a37319639aa",
-    "/angular-realworld-example-app/polyfills.802c161d09976ec9.js": "5f06d9adcd5ab71338d29dbc032bb64c720800f0",
-    "/angular-realworld-example-app/runtime.8e1bc65fc1b3f83d.js": "8e6dd662bf36c3e1715733c864cfcfcdb6f44908",
-    "/angular-realworld-example-app/src_app_article_article_module_ts.21529f9ee2208abf.js": "466297a748c130b845e08903899158778d466bc2",
-    "/angular-realworld-example-app/src_app_editor_editor_module_ts.040e72b34b0dd784.js": "7da63058a850057c60b3022ab6a47749b8be1d69",
-    "/angular-realworld-example-app/src_app_profile_profile_module_ts.ad90696b0dfc26d5.js": "b05175ef9401e929a29a1c8e7c2ccab3dd310a9d",
-    "/angular-realworld-example-app/src_app_settings_settings_module_ts.313b31b9d1de7579.js": "dd7e1b4690b62c4abe5ec4f6be9a2cab67560d6f",
-    "/angular-realworld-example-app/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/angular-realworld-example-app/polyfills-EONH2QZO.js": "e61db933651ae257d0c246b446cd1f470be08f78",
+    "/angular-realworld-example-app/profile.module-OGKJLIIF.js": "e052c137525bc8041314c61d1a9528df03857f7a",
+    "/angular-realworld-example-app/settings.module-RCZFGHAO.js": "c058b0947a42e13527443e2a9a0142b6df930f4a",
+    "/angular-realworld-example-app/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {

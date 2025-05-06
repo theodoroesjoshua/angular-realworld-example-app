@@ -5,9 +5,10 @@ import { Router } from '@angular/router';
 import { User, UserService } from '../core';
 
 @Component({
-  selector: 'app-settings-page',
-  templateUrl: './settings.component.html',
-  changeDetection: ChangeDetectionStrategy.OnPush
+    selector: 'app-settings-page',
+    templateUrl: './settings.component.html',
+    changeDetection: ChangeDetectionStrategy.OnPush,
+    standalone: false
 })
 export class SettingsComponent implements OnInit {
   user: User = {} as User;

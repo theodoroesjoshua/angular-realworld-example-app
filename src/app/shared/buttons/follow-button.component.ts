@@ -6,9 +6,10 @@ import { concatMap ,  tap } from 'rxjs/operators';
 import { of } from 'rxjs';
 
 @Component({
-  selector: 'app-follow-button',
-  templateUrl: './follow-button.component.html',
-  changeDetection: ChangeDetectionStrategy.OnPush
+    selector: 'app-follow-button',
+    templateUrl: './follow-button.component.html',
+    changeDetection: ChangeDetectionStrategy.OnPush,
+    standalone: false
 })
 export class FollowButtonComponent {
   constructor(

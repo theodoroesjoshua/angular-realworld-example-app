@@ -2,10 +2,11 @@ import { Component, Input, ChangeDetectorRef, ChangeDetectionStrategy } from '@a
 
 import { Article, ArticleListConfig, ArticlesService } from '../../core';
 @Component({
-  selector: 'app-article-list',
-  styleUrls: ['article-list.component.css'],
-  templateUrl: './article-list.component.html',
-  changeDetection: ChangeDetectionStrategy.OnPush
+    selector: 'app-article-list',
+    styleUrls: ['article-list.component.css'],
+    templateUrl: './article-list.component.html',
+    changeDetection: ChangeDetectionStrategy.OnPush,
+    standalone: false
 })
 export class ArticleListComponent {
   constructor (

@@ -4,9 +4,10 @@ import { Comment, User, UserService } from '../core';
 import { Subscription } from 'rxjs';
 
 @Component({
-  selector: 'app-article-comment',
-  templateUrl: './article-comment.component.html',
-  changeDetection: ChangeDetectionStrategy.OnPush
+    selector: 'app-article-comment',
+    templateUrl: './article-comment.component.html',
+    changeDetection: ChangeDetectionStrategy.OnPush,
+    standalone: false
 })
 export class ArticleCommentComponent implements OnInit, OnDestroy {
   constructor(

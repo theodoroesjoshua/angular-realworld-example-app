@@ -12,9 +12,10 @@ import {
 } from '../core';
 
 @Component({
-  selector: 'app-article-page',
-  templateUrl: './article.component.html',
-  changeDetection: ChangeDetectionStrategy.OnPush
+    selector: 'app-article-page',
+    templateUrl: './article.component.html',
+    changeDetection: ChangeDetectionStrategy.OnPush,
+    standalone: false
 })
 export class ArticleComponent implements OnInit {
   article: Article;

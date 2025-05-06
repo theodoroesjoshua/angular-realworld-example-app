@@ -5,9 +5,10 @@ import { ActivatedRoute, Router } from '@angular/router';
 import { Errors, UserService } from '../core';
 
 @Component({
-  selector: 'app-auth-page',
-  templateUrl: './auth.component.html',
-  changeDetection: ChangeDetectionStrategy.OnPush
+    selector: 'app-auth-page',
+    templateUrl: './auth.component.html',
+    changeDetection: ChangeDetectionStrategy.OnPush,
+    standalone: false
 })
 export class AuthComponent implements OnInit {
   authType: String = '';

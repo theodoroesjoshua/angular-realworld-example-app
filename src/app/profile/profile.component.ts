@@ -5,9 +5,10 @@ import { User, UserService, Profile } from '../core';
 import { concatMap ,  tap } from 'rxjs/operators';
 
 @Component({
-  selector: 'app-profile-page',
-  templateUrl: './profile.component.html',
-  changeDetection: ChangeDetectionStrategy.OnPush
+    selector: 'app-profile-page',
+    templateUrl: './profile.component.html',
+    changeDetection: ChangeDetectionStrategy.OnPush,
+    standalone: false
 })
 export class ProfileComponent implements OnInit {
   constructor(

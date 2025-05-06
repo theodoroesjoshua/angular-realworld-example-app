@@ -3,9 +3,10 @@ import { Component, OnInit, ChangeDetectionStrategy, ChangeDetectorRef } from '@
 import { User, UserService } from '../../core';
 
 @Component({
-  selector: 'app-layout-header',
-  templateUrl: './header.component.html',
-  changeDetection: ChangeDetectionStrategy.OnPush
+    selector: 'app-layout-header',
+    templateUrl: './header.component.html',
+    changeDetection: ChangeDetectionStrategy.OnPush,
+    standalone: false
 })
 export class HeaderComponent implements OnInit {
   constructor(

@@ -6,9 +6,10 @@ import { of } from 'rxjs';
 import { concatMap ,  tap } from 'rxjs/operators';
 
 @Component({
-  selector: 'app-favorite-button',
-  templateUrl: './favorite-button.component.html',
-  changeDetection: ChangeDetectionStrategy.OnPush
+    selector: 'app-favorite-button',
+    templateUrl: './favorite-button.component.html',
+    changeDetection: ChangeDetectionStrategy.OnPush,
+    standalone: false
 })
 export class FavoriteButtonComponent {
   constructor(

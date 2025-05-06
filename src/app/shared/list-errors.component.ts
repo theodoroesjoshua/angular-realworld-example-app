@@ -3,9 +3,10 @@ import { Component, Input, ChangeDetectionStrategy } from '@angular/core';
 import { Errors } from '../core';
 
 @Component({
-  selector: 'app-list-errors',
-  templateUrl: './list-errors.component.html',
-  changeDetection: ChangeDetectionStrategy.OnPush
+    selector: 'app-list-errors',
+    templateUrl: './list-errors.component.html',
+    changeDetection: ChangeDetectionStrategy.OnPush,
+    standalone: false
 })
 export class ListErrorsComponent {
   formattedErrors: Array<string> = [];
