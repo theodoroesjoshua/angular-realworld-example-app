@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1746550724106,
+  "timestamp": 1746552995440,
   "index": "/angular-realworld-example-app/index.html",
   "assetGroups": [
     {
@@ -13,10 +13,10 @@
       "urls": [
         "/angular-realworld-example-app/favicon.ico",
         "/angular-realworld-example-app/index.html",
-        "/angular-realworld-example-app/main.7f275dd927968ec6.js",
+        "/angular-realworld-example-app/main.98072ed3e5f12096.js",
         "/angular-realworld-example-app/manifest.webmanifest",
         "/angular-realworld-example-app/polyfills.802c161d09976ec9.js",
-        "/angular-realworld-example-app/runtime.c9c6005412f063b6.js",
+        "/angular-realworld-example-app/runtime.8e1bc65fc1b3f83d.js",
         "/angular-realworld-example-app/src_app_article_article_module_ts.21529f9ee2208abf.js",
         "/angular-realworld-example-app/src_app_editor_editor_module_ts.040e72b34b0dd784.js",
         "/angular-realworld-example-app/src_app_profile_profile_module_ts.ad90696b0dfc26d5.js",
@@ -58,11 +58,11 @@
     "/angular-realworld-example-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/angular-realworld-example-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/angular-realworld-example-app/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/angular-realworld-example-app/index.html": "0432fa295159d6e85af5ee5bdbfff82e3ce7de16",
-    "/angular-realworld-example-app/main.7f275dd927968ec6.js": "ea97566423f14f98ed2ee6d0e683988058e0279e",
+    "/angular-realworld-example-app/index.html": "71a38920e98fae1fada5dcf06431fbb046fb1c4a",
+    "/angular-realworld-example-app/main.98072ed3e5f12096.js": "8128c85f596058f6bd6a4e7879d28e4a055487d6",
     "/angular-realworld-example-app/manifest.webmanifest": "53f62b083089a096f9e07fbd333c9a37319639aa",
     "/angular-realworld-example-app/polyfills.802c161d09976ec9.js": "5f06d9adcd5ab71338d29dbc032bb64c720800f0",
-    "/angular-realworld-example-app/runtime.c9c6005412f063b6.js": "66cc012bfa64430d23e27d3da8020ae366241999",
+    "/angular-realworld-example-app/runtime.8e1bc65fc1b3f83d.js": "8e6dd662bf36c3e1715733c864cfcfcdb6f44908",
     "/angular-realworld-example-app/src_app_article_article_module_ts.21529f9ee2208abf.js": "466297a748c130b845e08903899158778d466bc2",
     "/angular-realworld-example-app/src_app_editor_editor_module_ts.040e72b34b0dd784.js": "7da63058a850057c60b3022ab6a47749b8be1d69",
     "/angular-realworld-example-app/src_app_profile_profile_module_ts.ad90696b0dfc26d5.js": "b05175ef9401e929a29a1c8e7c2ccab3dd310a9d",
