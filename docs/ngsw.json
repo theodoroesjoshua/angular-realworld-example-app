@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1746554351975,
+  "timestamp": 1746558400080,
   "index": "/angular-realworld-example-app/index.html",
   "assetGroups": [
     {
@@ -11,16 +11,16 @@
         "ignoreVary": true
       },
       "urls": [
-        "/angular-realworld-example-app/article.module-SADI6QNX.js",
-        "/angular-realworld-example-app/chunk-52BIPFCO.js",
-        "/angular-realworld-example-app/editor.module-NYYKIEPM.js",
+        "/angular-realworld-example-app/article.module-DIGL7SEY.js",
+        "/angular-realworld-example-app/chunk-U3LDUPVL.js",
+        "/angular-realworld-example-app/editor.module-BY2QDQ6P.js",
         "/angular-realworld-example-app/favicon.ico",
         "/angular-realworld-example-app/index.html",
-        "/angular-realworld-example-app/main-FZ6WKRSW.js",
+        "/angular-realworld-example-app/main-46N6KSVZ.js",
         "/angular-realworld-example-app/manifest.webmanifest",
         "/angular-realworld-example-app/polyfills-EONH2QZO.js",
-        "/angular-realworld-example-app/profile.module-OGKJLIIF.js",
-        "/angular-realworld-example-app/settings.module-RCZFGHAO.js",
+        "/angular-realworld-example-app/profile.module-VK24BLLO.js",
+        "/angular-realworld-example-app/settings.module-YEWYPQYW.js",
         "/angular-realworld-example-app/styles-5INURTSO.css"
       ],
       "patterns": []
@@ -48,7 +48,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/angular-realworld-example-app/article.module-SADI6QNX.js": "609c14f7a810833fc377a23c21bdb26aece3166c",
+    "/angular-realworld-example-app/article.module-DIGL7SEY.js": "0c00f8a6716ce53ddcf8497f8604b554b4f9e834",
     "/angular-realworld-example-app/assets/.npmignore": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "/angular-realworld-example-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/angular-realworld-example-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
@@ -58,15 +58,15 @@
     "/angular-realworld-example-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/angular-realworld-example-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/angular-realworld-example-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/angular-realworld-example-app/chunk-52BIPFCO.js": "b9627eb32206bca677be733339a6ac5dc2f04da8",
-    "/angular-realworld-example-app/editor.module-NYYKIEPM.js": "c76beca723be96354df529779c6d54d114b92f89",
+    "/angular-realworld-example-app/chunk-U3LDUPVL.js": "eb36fb76291ede6af4edeff0eeaa30fdb085fccb",
+    "/angular-realworld-example-app/editor.module-BY2QDQ6P.js": "fc40f402bfa08a9bcfbe0367814bb3f0b89ee945",
     "/angular-realworld-example-app/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/angular-realworld-example-app/index.html": "dcb68468fc96ea6d457d545adfef78f99ab3dd5b",
-    "/angular-realworld-example-app/main-FZ6WKRSW.js": "9a939c6c6b3038394bdd519f0cc89b06fc03460d",
+    "/angular-realworld-example-app/index.html": "d050cde1e312c17f2f1559da1b953579e30d3449",
+    "/angular-realworld-example-app/main-46N6KSVZ.js": "17c40dd58dd62071fe2baaa05f8bcdd72d889d60",
     "/angular-realworld-example-app/manifest.webmanifest": "53f62b083089a096f9e07fbd333c9a37319639aa",
     "/angular-realworld-example-app/polyfills-EONH2QZO.js": "e61db933651ae257d0c246b446cd1f470be08f78",
-    "/angular-realworld-example-app/profile.module-OGKJLIIF.js": "e052c137525bc8041314c61d1a9528df03857f7a",
-    "/angular-realworld-example-app/settings.module-RCZFGHAO.js": "c058b0947a42e13527443e2a9a0142b6df930f4a",
+    "/angular-realworld-example-app/profile.module-VK24BLLO.js": "8dbead888977a856fd76da6ebb13e7a889464083",
+    "/angular-realworld-example-app/settings.module-YEWYPQYW.js": "b9900399060e6cfc52ce2001a7de7ab5abc02a5f",
     "/angular-realworld-example-app/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
