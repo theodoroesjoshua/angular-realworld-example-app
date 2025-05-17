@@ -42,7 +42,6 @@
               "outputHashing": "all",
               "sourceMap": false,
               "extractLicenses": true,
-              "baseHref": "/angular-realworld-example-app/",
               "budgets": [
                 {
                   "type": "initial",
